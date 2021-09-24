@@ -1,0 +1,7 @@
+{
+    "VERY_LIKELY": "Very likely",
+    "LIKELY": "Likely",
+    "POSSIBLE": "Possible",
+    "UNLIKELY": "Unlikely",
+    "VERY_UNLIKELY": "Very unlikely"
+}
